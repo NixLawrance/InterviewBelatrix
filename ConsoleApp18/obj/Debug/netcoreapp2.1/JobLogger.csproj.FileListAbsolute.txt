@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp2.1\JobLogger.dll.config
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp2.1\JobLogger.deps.json
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp2.1\JobLogger.runtimeconfig.json
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp2.1\JobLogger.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp2.1\JobLogger.dll
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp2.1\JobLogger.pdb
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp2.1\JobLogger.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp2.1\JobLogger.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp2.1\JobLogger.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp2.1\JobLogger.AssemblyInfo.cs
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp2.1\JobLogger.dll
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp2.1\JobLogger.pdb

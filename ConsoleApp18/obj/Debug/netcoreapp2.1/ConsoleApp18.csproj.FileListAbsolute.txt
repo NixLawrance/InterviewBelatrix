@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp2.1\ConsoleApp18.deps.json
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp2.1\ConsoleApp18.runtimeconfig.json
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp2.1\ConsoleApp18.runtimeconfig.dev.json
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp2.1\ConsoleApp18.dll
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp2.1\ConsoleApp18.pdb
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp2.1\ConsoleApp18.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp2.1\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp2.1\ConsoleApp18.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp2.1\ConsoleApp18.AssemblyInfo.cs
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp2.1\ConsoleApp18.dll
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp2.1\ConsoleApp18.pdb
+C:\Users\acer\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp2.1\ConsoleApp18.dll.config
